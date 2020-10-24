@@ -1,7 +1,7 @@
 {
   "name": "colora-syntax-atom",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple, vibrant dark syntax theme for choosy developers.",
   "keywords": [
     "colora",
