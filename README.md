@@ -10,7 +10,7 @@
 
 # Colora Syntax Theme for Atom
 
-![Banner](https://user-images.githubusercontent.com/25544057/97078075-dcedd900-15ae-11eb-8cc8-a043663e60e0.png)
+![Banner](https://user-images.githubusercontent.com/25544057/97080533-bd13e080-15c1-11eb-9fec-5193122c79b2.png)
 
 # Installation
 
