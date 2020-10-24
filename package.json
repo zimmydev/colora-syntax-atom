@@ -1,0 +1,17 @@
+{
+  "name": "colora-syntax-atom",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A simple, vibrant dark syntax theme for choosy developers.",
+  "keywords": [
+    "colora",
+    "seti-ui",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/zimmydev/colora-syntax-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
